@@ -1,8 +1,8 @@
-###Introduction
+###Introduction###
 This project aims to provide a comprehensive view of various companies' financial performance by leveraging data from Wikipedia. The Power BI dashboard created in this project allows users to interact with the data and gain insights into the sales and profits of different companies over several quarters.
 
 
-###Data Extraction
+Data Extraction
 The data is extracted from Wikipedia using BeautifulSoup (bs4). The extraction script fetches the relevant data tables from Wikipedia and processes them into a structured format.
 
 ###Data Visualization
